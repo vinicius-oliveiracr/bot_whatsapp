@@ -1,0 +1,6 @@
+esse bot tem como objetivo:
+-randomizar os times de acordo com a lista de pessoas que colocaram os nomes
+-fazer o cálculo da parte de cada um, excluíndo os goleiros de pagarem
+
+
+-versão web
